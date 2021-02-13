@@ -1,0 +1,698 @@
+Removed Pin From Net: NetName=+5 Pin=C2-1
+Removed Pin From Net: NetName=+5 Pin=C2-2
+Removed Pin From Net: NetName=+5 Pin=C3-1
+Removed Pin From Net: NetName=+5 Pin=C4-2
+Removed Pin From Net: NetName=+5 Pin=C6-1
+Removed Pin From Net: NetName=+5 Pin=C6-2
+Removed Pin From Net: NetName=+5 Pin=C7-1
+Removed Pin From Net: NetName=+5 Pin=C7-2
+Removed Pin From Net: NetName=+5 Pin=C9-2
+Removed Pin From Net: NetName=+5 Pin=C10-1
+Removed Pin From Net: NetName=+5 Pin=C11-1
+Removed Pin From Net: NetName=+5 Pin=C12-1
+Removed Pin From Net: NetName=+5 Pin=C13-1
+Removed Pin From Net: NetName=+5 Pin=C14-1
+Removed Pin From Net: NetName=+5 Pin=COM4-2
+Removed Pin From Net: NetName=+5 Pin=COMP1-2
+Removed Pin From Net: NetName=+5 Pin=COMP2-2
+Removed Pin From Net: NetName=+5 Pin=COMP3-2
+Removed Pin From Net: NetName=+5 Pin=ND2-3
+Removed Pin From Net: NetName=+5 Pin=NOT1-5
+Removed Pin From Net: NetName=NetCOMP1_4 Pin=OR1-1
+Removed Pin From Net: NetName=NetCOMP2_4 Pin=OR1-2
+Removed Pin From Net: NetName=+5 Pin=OR1-3
+Removed Pin From Net: NetName=+5 Pin=OR1-5
+Removed Pin From Net: NetName=NetCOMP3_4 Pin=OR2-1
+Removed Pin From Net: NetName=NetCOM4_4 Pin=OR2-2
+Removed Pin From Net: NetName=+5 Pin=OR2-3
+Removed Pin From Net: NetName=+5 Pin=OR2-5
+Removed Pin From Net: NetName=+5 Pin=P1-1
+Removed Pin From Net: NetName=+5 Pin=P2-1
+Removed Pin From Net: NetName=+5 Pin=P3-1
+Removed Pin From Net: NetName=+5 Pin=P4-1
+Removed Pin From Net: NetName=+12 Pin=Power-1
+Removed Pin From Net: NetName=+5 Pin=Power-2
+Removed Pin From Net: NetName=+5 Pin=Power-3
+Removed Pin From Net: NetName=+5 Pin=Power-4
+Removed Pin From Net: NetName=+5 Pin=R3-1
+Removed Pin From Net: NetName=NetND2_4 Pin=RLOAD-1
+Removed Member From Class: ClassName=BSPDSchematic Member=OR1
+Removed Member From Class: ClassName=BSPDSchematic Member=OR2
+Removed Member From Class: ClassName=BSPDSchematic Member=Power
+Removed Member From Class: ClassName=BSPDSchematic Member=RLOAD
+Change Component Footprint: Designator=C9 Old Footprint=*CAP3216X125N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=C1 Old Footprint=*CAPC1005X55N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=C2 Old Footprint=*CAPC1005X55N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=C3 Old Footprint=*CAPC1005X55N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=C4 Old Footprint=*CAPC1005X55N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=C5 Old Footprint=*CAPC1005X55N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=C6 Old Footprint=*CAPC1005X55N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=C7 Old Footprint=*CAPC1005X55N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=C8 Old Footprint=*CAPC1005X55N New Footprint=CAPC3216X152X50LL20T25
+Change Component Footprint: Designator=R1 Old Footprint=*RESC1608X55N New Footprint=RESC3216X60X45ML10T20
+Change Component Footprint: Designator=R2 Old Footprint=*RESC1608X55N New Footprint=RESC3216X60X45ML10T20
+Change Component Footprint: Designator=R3 Old Footprint=*RESC1608X55N New Footprint=RESC3216X60X45ML10T20
+Change Component Footprint: Designator=R4 Old Footprint=*RESC1608X55N New Footprint=RESC3216X60X45ML10T20
+Change Component Comment : Designator=C10 Old Comment=12065C334KAT2A New Comment=1uF 1206
+Change Component Comment : Designator=C13 Old Comment=C1206C225K4RACTU New Comment=100uF 1206
+Change Component Comment : Designator=C12 Old Comment=CAP 100uF 6.3V 1206(3216) New Comment=100uF 1206
+Change Component Comment : Designator=C11 Old Comment=CAP 100uF 6.3V 1206(3216) New Comment=.1uF 1206
+Change Component Comment : Designator=C1 Old Comment=CL05A105MQ5NNNC New Comment=1uF 1206
+Change Component Comment : Designator=C2 Old Comment=CL05A105MQ5NNNC New Comment=1uF 1206
+Change Component Comment : Designator=C3 Old Comment=CL05A105MQ5NNNC New Comment=1uF 1206
+Change Component Comment : Designator=C4 Old Comment=CL05A105MQ5NNNC New Comment=1uF 1206
+Change Component Comment : Designator=C5 Old Comment=CL05A105MQ5NNNC New Comment=1uF 1206
+Change Component Comment : Designator=C6 Old Comment=CL05A105MQ5NNNC New Comment=1uF 1206
+Change Component Comment : Designator=C7 Old Comment=CL05A105MQ5NNNC New Comment=1uF 1206
+Change Component Comment : Designator=C8 Old Comment=CL05A105MQ5NNNC New Comment=1uF 1206
+Change Component Comment : Designator=C9 Old Comment=GRM31CD80J107ME39K New Comment=1uF 1206
+Change Component Comment : Designator=R1 Old Comment=RT0603BRD0740KL New Comment=50k
+Change Component Comment : Designator=R2 Old Comment=RT0603BRD0740KL New Comment=50k
+Change Component Comment : Designator=R3 Old Comment=RT0603BRD0740KL New Comment=FIGURE OUT
+Change Component Comment : Designator=R4 Old Comment=RT0603BRD0740KL New Comment=FIGURE OUT
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C7 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C9 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C10 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2CB21920-424D-452D-A873-0CDD40599598 Old RevisionGUID= New RevisionGUID=1C9A8E77-0FA1-4583-87CC-2225EC958BC3
+Change Managed Component Library Link : Designator=C11 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=50C56187-4537-4993-A229-30EB0D73B1B3 Old RevisionGUID= New RevisionGUID=43ED8087-11FB-4D03-89C9-C5C89FE58A2B
+Change Managed Component Library Link : Designator=C12 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=50C56187-4537-4993-A229-30EB0D73B1B3 Old RevisionGUID= New RevisionGUID=43ED8087-11FB-4D03-89C9-C5C89FE58A2B
+Change Managed Component Library Link : Designator=C13 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=87348B0A-B82E-4F71-84A8-3013FDD55FD0 Old RevisionGUID= New RevisionGUID=E81721B4-6882-4DAE-86F2-9CF39A4C28D2
+Change Managed Component Library Link : Designator=C14 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A6B8830B-D56C-4124-B21E-540352E97766 Old RevisionGUID= New RevisionGUID=D0DA5941-DCCF-492D-B47A-7BC33B5AE52B
+Change Managed Component Library Link : Designator=COM4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=63A25224-6C74-4E74-8928-DB27064E8187 Old RevisionGUID= New RevisionGUID=24BDF5B0-E9FE-4EB6-8DAF-322D8C43A580
+Change Managed Component Library Link : Designator=COMP1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=63A25224-6C74-4E74-8928-DB27064E8187 Old RevisionGUID= New RevisionGUID=24BDF5B0-E9FE-4EB6-8DAF-322D8C43A580
+Change Managed Component Library Link : Designator=COMP2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=63A25224-6C74-4E74-8928-DB27064E8187 Old RevisionGUID= New RevisionGUID=24BDF5B0-E9FE-4EB6-8DAF-322D8C43A580
+Change Managed Component Library Link : Designator=COMP3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=63A25224-6C74-4E74-8928-DB27064E8187 Old RevisionGUID= New RevisionGUID=24BDF5B0-E9FE-4EB6-8DAF-322D8C43A580
+Change Managed Component Library Link : Designator=ND2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D9BE8A1C-929E-4376-8181-C77BD46D7475 Old RevisionGUID= New RevisionGUID=5F1E2ADE-23ED-4D90-BB9C-EE0F15E6F114
+Change Managed Component Library Link : Designator=NOT1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BA138C0C-CCA4-407E-97A2-1A4040B2392F Old RevisionGUID= New RevisionGUID=EEC4804D-4858-48E7-806D-20E43C81ED44
+Change Managed Component Library Link : Designator=P1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=673AF8F2-BE83-4FE4-ADB4-14236403D5D5 Old RevisionGUID= New RevisionGUID=EF8C7761-DC1C-421E-8F5A-355E02B9B321
+Change Managed Component Library Link : Designator=P2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=673AF8F2-BE83-4FE4-ADB4-14236403D5D5 Old RevisionGUID= New RevisionGUID=EF8C7761-DC1C-421E-8F5A-355E02B9B321
+Change Managed Component Library Link : Designator=P3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=673AF8F2-BE83-4FE4-ADB4-14236403D5D5 Old RevisionGUID= New RevisionGUID=EF8C7761-DC1C-421E-8F5A-355E02B9B321
+Change Managed Component Library Link : Designator=P4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=673AF8F2-BE83-4FE4-ADB4-14236403D5D5 Old RevisionGUID= New RevisionGUID=EF8C7761-DC1C-421E-8F5A-355E02B9B321
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=64BB599D-BA75-40E5-927E-A25A9B276F67 Old RevisionGUID= New RevisionGUID=2573CAF4-82B2-4B21-946E-B305460B79EF
+Change Managed Component Library Link : Designator=R2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=64BB599D-BA75-40E5-927E-A25A9B276F67 Old RevisionGUID= New RevisionGUID=2573CAF4-82B2-4B21-946E-B305460B79EF
+Change Managed Component Library Link : Designator=R3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=64BB599D-BA75-40E5-927E-A25A9B276F67 Old RevisionGUID= New RevisionGUID=2573CAF4-82B2-4B21-946E-B305460B79EF
+Change Managed Component Library Link : Designator=R4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=64BB599D-BA75-40E5-927E-A25A9B276F67 Old RevisionGUID= New RevisionGUID=2573CAF4-82B2-4B21-946E-B305460B79EF
+Change component parameters: Designator = "R1" ("R1"); Footprint = "*RESC1608X55N"; UniqueID = "\GNQLZWGM" ("\GNQLZWGM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "*RESC1608X55N"; UniqueID = "\WADAPZNY" ("\WADAPZNY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "*RESC1608X55N"; UniqueID = "\ZVVVILUU" ("\ZVVVILUU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "*RESC1608X55N"; UniqueID = "\VDEIUZKV" ("\VDEIUZKV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "*CAPC1005X55N"; UniqueID = "\VAKJEFEA" ("\VAKJEFEA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "*CAPC1005X55N"; UniqueID = "\WYXEFBZG" ("\WYXEFBZG")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "*CAPC1005X55N"; UniqueID = "\QEHFFAYI" ("\QEHFFAYI")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "*CAPC1005X55N"; UniqueID = "\ADVIASYJ" ("\ADVIASYJ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "*CAPC1005X55N"; UniqueID = "\BEHTLPCD" ("\BEHTLPCD")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "*CAPC1005X55N"; UniqueID = "\PDUAZIMP" ("\PDUAZIMP")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "*CAPC1005X55N"; UniqueID = "\PNEYGUWA" ("\PNEYGUWA")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "*CAPC1005X55N"; UniqueID = "\JXRUTPPM" ("\JXRUTPPM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "*CAP3216X125N"; UniqueID = "\IBIIWMIL" ("\IBIIWMIL")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC3216X152X50LL20T25)
+Add component (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC3216X152X50LL20T25)
+Add component (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAPC3216X152X50LL20T25)
+Add component (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC3216X152X50LL20T25)
+Add component (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAPC3216X152X50LL20T25)
+Add component (AddParameter): Name = "Capacitance"; Value = "330nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "07/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.avx.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±10%"; VariantName = "[No Variations]"
+Added Component: Designator=COMP5(ADI-KS-5_L)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-203-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/ADCMP370_371.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/PKG_PDF/SC70(KS)/KS_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "Product URL:http://www.analog.com/en/special-linear-functions/comparators/adcmp371/products/product.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "URL Link2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "Reference Circuit:http://www.analog.com/en/special-linear-functions/comparators/adcmp371/products/product.html#product-recommendations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Range (V)"; Value = "0 to VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Thin Shrink Small Outline Transistor Package, Body 2 x 1.25 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "KS-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "072809-A, 07/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ADCMP371AKSZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "4uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Supply (V)"; Value = "2.25 to 5.5"; VariantName = "[No Variations]"
+Added Component: Designator=COMP6(ADI-KS-5_L)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-203-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/ADCMP370_371.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/PKG_PDF/SC70(KS)/KS_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "Product URL:http://www.analog.com/en/special-linear-functions/comparators/adcmp371/products/product.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "URL Link2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "Reference Circuit:http://www.analog.com/en/special-linear-functions/comparators/adcmp371/products/product.html#product-recommendations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Range (V)"; Value = "0 to VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Thin Shrink Small Outline Transistor Package, Body 2 x 1.25 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "KS-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "072809-A, 07/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ADCMP371AKSZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "4uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Supply (V)"; Value = "2.25 to 5.5"; VariantName = "[No Variations]"
+Added Component: Designator=COMP7(ADI-KS-5_L)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-203-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.analog.com/en/index.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/ADCMP370_371.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/PKG_PDF/SC70(KS)/KS_5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "Product URL:http://www.analog.com/en/special-linear-functions/comparators/adcmp371/products/product.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "URL Link2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "Reference Circuit:http://www.analog.com/en/special-linear-functions/comparators/adcmp371/products/product.html#product-recommendations"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Range (V)"; Value = "0 to VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Thin Shrink Small Outline Transistor Package, Body 2 x 1.25 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "KS-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "072809-A, 07/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ADCMP371AKSZ-REEL7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "4uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Supply (V)"; Value = "2.25 to 5.5"; VariantName = "[No Variations]"
+Added Component: Designator=P5(BOUR-TC33X-2_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/TC33.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "42583.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.047inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "100degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Surface Mount Device, Body 3.8 x 3.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TC33X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "250ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "FootPrint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "29.4mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.118inch"; VariantName = "[No Variations]"
+Added Component: Designator=P6(BOUR-TC33X-2_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/TC33.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "42583.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.047inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "100degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Surface Mount Device, Body 3.8 x 3.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TC33X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "250ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "FootPrint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "29.4mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.118inch"; VariantName = "[No Variations]"
+Added Component: Designator=P7(BOUR-TC33X-2_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/TC33.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "42583.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.047inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "100degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Surface Mount Device, Body 3.8 x 3.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TC33X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "250ppm/degreesC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "FootPrint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "29.4mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.118inch"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MAXM-U5+1_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.maximintegrated.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheets.maximintegrated.com/en/ds/MAX6129.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://pdfserv.maximintegrated.com/package_dwgs/21-0057.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Initial Accuracy (% max) @ 25 degC"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isupply (uA)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise Voltage (0.1 to 10 Hz) (uVPP)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Plastic Small Outline, Body 2.9 x 1.625 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "U5+1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MAX6129BEUK50+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp. Coeff. (ppt/degC)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout (V)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vsupply (max) (V)"; Value = "12.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vsupply (min) (V)"; Value = "2.7"; VariantName = "[No Variations]"
+Added Component: Designator=U2(*SOT65P210X110-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NC7SZ332P6X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SC-70-6 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NC7SZ332P6X/ON%20Semiconductor/view-part/2531391/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(*SOT65P210X110-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NC7SZ332P6X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SC-70-6 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NC7SZ332P6X/ON%20Semiconductor/view-part/2531391/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C18-2
+Added Pin To Net: NetName=+5 Pin=C19-2
+Added Pin To Net: NetName=+5 Pin=C20-2
+Added Pin To Net: NetName=+5 Pin=COMP5-5
+Added Pin To Net: NetName=+5 Pin=COMP6-5
+Added Pin To Net: NetName=+5 Pin=COMP7-5
+Added Pin To Net: NetName=NetCOMP2_4 Pin=ND2-1
+Added Pin To Net: NetName=NetCOM4_4 Pin=ND2-2
+Added Pin To Net: NetName=+5 Pin=P5-3
+Added Pin To Net: NetName=+5 Pin=P6-3
+Added Pin To Net: NetName=+5 Pin=P7-3
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=NetCOMP2_4 Pin=R10-1
+Added Pin To Net: NetName=NetCOMP3_4 Pin=R11-1
+Added Pin To Net: NetName=NetCOM4_4 Pin=R12-1
+Added Pin To Net: NetName=NetND2_4 Pin=R14-1
+Added Pin To Net: NetName=NetCOMP1_4 Pin=R15-1
+Added Pin To Net: NetName=+12 Pin=U1-1
+Added Pin To Net: NetName=+5 Pin=U1-5
+Added Pin To Net: NetName=NetCOMP1_4 Pin=U2-1
+Added Pin To Net: NetName=+5 Pin=U2-5
+Added Pin To Net: NetName=NetND2_4 Pin=U2-6
+Added Pin To Net: NetName=NetCOMP3_4 Pin=U?-3
+Added Pin To Net: NetName=+5 Pin=U?-5
+Added Pin To Net: NetName=ACCEL_IN Pin=C2-2
+Added Pin To Net: NetName=ACCEL_IN Pin=C4-2
+Added Pin To Net: NetName=ACCEL_IN Pin=C9-2
+Added Pin To Net: NetName=ACCEL_IN Pin=COMP1-1
+Added Pin To Net: NetName=ACCEL_IN Pin=COMP2-1
+Added Pin To Net: NetName=ACCEL_IN Pin=COMP5-3
+Added Pin To Net: NetName=ACCEL_IN Pin=R1-2
+Added Pin To Net: NetName=ACCEL_IN Pin=R2-2
+Added Pin To Net: NetName=ACCEL_IN Pin=R8-1
+Added Net: Name=ACCEL_IN
+Added Pin To Net: NetName=BRAKE_IN Pin=C6-2
+Added Pin To Net: NetName=BRAKE_IN Pin=C7-2
+Added Pin To Net: NetName=BRAKE_IN Pin=C17-2
+Added Pin To Net: NetName=BRAKE_IN Pin=COM4-1
+Added Pin To Net: NetName=BRAKE_IN Pin=COMP3-1
+Added Pin To Net: NetName=BRAKE_IN Pin=COMP6-3
+Added Pin To Net: NetName=BRAKE_IN Pin=R3-1
+Added Pin To Net: NetName=BRAKE_IN Pin=R4-2
+Added Pin To Net: NetName=BRAKE_IN Pin=R7-1
+Added Net: Name=BRAKE_IN
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=COM4-2
+Added Pin To Net: NetName=GND Pin=COMP1-2
+Added Pin To Net: NetName=GND Pin=COMP2-2
+Added Pin To Net: NetName=GND Pin=COMP3-2
+Added Pin To Net: NetName=GND Pin=COMP5-2
+Added Pin To Net: NetName=GND Pin=COMP6-2
+Added Pin To Net: NetName=GND Pin=COMP7-2
+Added Pin To Net: NetName=GND Pin=ND2-3
+Added Pin To Net: NetName=GND Pin=NOT1-5
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=COMP7-1
+Added Pin To Net: NetName=NetC15_2 Pin=R6-2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetCOMP5_1 Pin=COMP5-1
+Added Pin To Net: NetName=NetCOMP5_1 Pin=P5-2
+Added Net: Name=NetCOMP5_1
+Added Pin To Net: NetName=NetCOMP5_4 Pin=COMP5-4
+Added Pin To Net: NetName=NetCOMP5_4 Pin=R9-1
+Added Pin To Net: NetName=NetCOMP5_4 Pin=U2-3
+Added Net: Name=NetCOMP5_4
+Added Pin To Net: NetName=NetCOMP6_1 Pin=COMP6-1
+Added Pin To Net: NetName=NetCOMP6_1 Pin=P6-2
+Added Net: Name=NetCOMP6_1
+Added Pin To Net: NetName=NetCOMP6_4 Pin=COMP6-4
+Added Pin To Net: NetName=NetCOMP6_4 Pin=R13-1
+Added Pin To Net: NetName=NetCOMP6_4 Pin=U?-6
+Added Net: Name=NetCOMP6_4
+Added Pin To Net: NetName=NetCOMP7_3 Pin=COMP7-3
+Added Pin To Net: NetName=NetCOMP7_3 Pin=P7-2
+Added Net: Name=NetCOMP7_3
+Added Pin To Net: NetName=NetCOMP7_4 Pin=COMP7-4
+Added Pin To Net: NetName=NetCOMP7_4 Pin=NOT1-1
+Added Pin To Net: NetName=NetCOMP7_4 Pin=R5-1
+Added Net: Name=NetCOMP7_4
+Added Pin To Net: NetName=NetNOT1_6 Pin=NOT1-6
+Added Pin To Net: NetName=NetNOT1_6 Pin=R5-2
+Added Net: Name=NetNOT1_6
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U?-4
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U2-4
+Added Pin To Net: NetName=NetR16_1 Pin=U?-1
+Added Net: Name=NetR16_1
+Added Member To Class: ClassName=BSPDSchematic Member=Component C15 100uF 1206
+Added Member To Class: ClassName=BSPDSchematic Member=Component C17 1uF 1206
+Added Member To Class: ClassName=BSPDSchematic Member=Component C18 1uF 1206
+Added Member To Class: ClassName=BSPDSchematic Member=Component C19 1uF 1206
+Added Member To Class: ClassName=BSPDSchematic Member=Component C20 1uF 1206
+Added Member To Class: ClassName=BSPDSchematic Member=Component COMP5 ADCMP371AKSZ-REEL7
+Added Member To Class: ClassName=BSPDSchematic Member=Component COMP6 ADCMP371AKSZ-REEL7
+Added Member To Class: ClassName=BSPDSchematic Member=Component COMP7 ADCMP371AKSZ-REEL7
+Added Member To Class: ClassName=BSPDSchematic Member=Component P5 TC33X-2-103E
+Added Member To Class: ClassName=BSPDSchematic Member=Component P6 TC33X-2-103E
+Added Member To Class: ClassName=BSPDSchematic Member=Component P7 TC33X-2-103E
+Added Member To Class: ClassName=BSPDSchematic Member=Component R5 BYPASS NOT
+Added Member To Class: ClassName=BSPDSchematic Member=Component R6 1206 1k
+Added Member To Class: ClassName=BSPDSchematic Member=Component R7 FIGURE OUT
+Added Member To Class: ClassName=BSPDSchematic Member=Component R8 FIGURE OUT
+Added Member To Class: ClassName=BSPDSchematic Member=Component R9 10k
+Added Member To Class: ClassName=BSPDSchematic Member=Component R10 10k
+Added Member To Class: ClassName=BSPDSchematic Member=Component R11 10k
+Added Member To Class: ClassName=BSPDSchematic Member=Component R12 10k
+Added Member To Class: ClassName=BSPDSchematic Member=Component R13 10k
+Added Member To Class: ClassName=BSPDSchematic Member=Component R14 10k
+Added Member To Class: ClassName=BSPDSchematic Member=Component R15 10k
+Added Member To Class: ClassName=BSPDSchematic Member=Component R16 10k
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 MAX6129BEUK50+T
+Added Member To Class: ClassName=BSPDSchematic Member=Component U2 NC7SZ332P6X
+Added Member To Class: ClassName=BSPDSchematic Member=Component U? NC7SZ332P6X

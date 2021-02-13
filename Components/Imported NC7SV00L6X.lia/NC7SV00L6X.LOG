@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : NC7SV00L6X.LibPkg
+
+Section : C:\Users\mohit\Downloads\NC7SV00L6X\NC7SV00L6X.lia
+    Section : PCB Library - NC7SV00L6X.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token NC7SV00L6X On Line 119
+            Warning - 1 : Skipping Token attachedSymbol On Line 196
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - NC7SV00L6X.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 111
+        EndSection
+
+        Section : Generating SCH Library - NC7SV00L6X.SchLib
+        EndSection
+    EndSection
+EndSection

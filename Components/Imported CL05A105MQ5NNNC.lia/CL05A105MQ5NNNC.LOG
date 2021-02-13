@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : CL05A105MQ5NNNC.LibPkg
+
+Section : C:\Users\Mohit\Downloads\CL05A105MQ5NNNC\CL05A105MQ5NNNC.lia
+    Section : PCB Library - CL05A105MQ5NNNC.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CL05A105MQ5NNNC On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 167
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CL05A105MQ5NNNC.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 102
+        EndSection
+
+        Section : Generating SCH Library - CL05A105MQ5NNNC.SchLib
+        EndSection
+    EndSection
+EndSection

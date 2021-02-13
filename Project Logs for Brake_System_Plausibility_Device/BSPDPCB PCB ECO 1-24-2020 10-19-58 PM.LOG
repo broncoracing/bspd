@@ -1,0 +1,23 @@
+Change Component Comment : Designator=R3 Old Comment=FIGURE OUT New Comment=50K
+Change Component Comment : Designator=R4 Old Comment=FIGURE OUT New Comment=50K
+Change Component Comment : Designator=R7 Old Comment=FIGURE OUT New Comment=50K
+Change Component Comment : Designator=R8 Old Comment=FIGURE OUT New Comment=50K
+Added Component: Designator=U?(*PSON50P145X100X55-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NC7SV00L6X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "UFDFN-6 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NC7SV00L6X/ON%20Semiconductor/view-part/1903689/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(*PSON50P145X100X55-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NC7SV00L6X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "UFDFN-6 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NC7SV00L6X/ON%20Semiconductor/view-part/1903689/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 SN74HC02DR
+Added Member To Class: ClassName=BSPDSchematic Member=Component U? NC7SV00L6X
+Added Member To Class: ClassName=BSPDSchematic Member=Component U? NC7SV00L6X

@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : B6B-PH-SM4-TB_LF__SN_.LibPkg
+
+Section : C:\Users\mohit\Downloads\B6B-PH-SM4-TB_LF__SN_\B6B-PH-SM4-TB_LF__SN_.lia
+    Section : PCB Library - B6B-PH-SM4-TB_LF__SN_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token B6B-PH-SM4-TB(LF)(SN) On Line 144
+            Warning - 1 : Skipping Token attachedSymbol On Line 243
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - B6B-PH-SM4-TB_LF__SN_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 124
+            Warning - 1 : Skipping Token layerContents On Line 132
+        EndSection
+
+        Section : Generating SCH Library - B6B-PH-SM4-TB_LF__SN_.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : NC7SZ332P6X.LibPkg
+
+Section : C:\Users\Zain\Downloads\NC7SZ332P6X.lia
+    Section : PCB Library - NC7SZ332P6X.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token NC7SZ332P6X On Line 179
+            Warning - 1 : Skipping Token attachedSymbol On Line 266
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - NC7SZ332P6X.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 136
+        EndSection
+
+        Section : Generating SCH Library - NC7SZ332P6X.SchLib
+        EndSection
+    EndSection
+EndSection

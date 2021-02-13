@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P10
+Added Member To Class: ClassName=BSPDSchematic Member=Component P10 B6B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 L79L05ACUTR

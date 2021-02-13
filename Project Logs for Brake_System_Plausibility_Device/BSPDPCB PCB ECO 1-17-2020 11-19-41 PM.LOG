@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= mm NewDesignator=C11
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Added Member To Class: ClassName=BSPDSchematic Member=Component C11 .1uF 1206
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 SN74HC02DR

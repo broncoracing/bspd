@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : TS555IDTTR.LibPkg
+
+Section : C:\Users\Mohit\Downloads\TS555IDTTR\TS555IDTTR.lia
+    Section : PCB Library - TS555IDTTR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TS555IDTTR On Line 189
+            Warning - 1 : Skipping Token attachedSymbol On Line 296
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TS555IDTTR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 180
+        EndSection
+
+        Section : Generating SCH Library - TS555IDTTR.SchLib
+        EndSection
+    EndSection
+EndSection

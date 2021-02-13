@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=FAULT1 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=FAULT3 Pin=U2-3
+Removed Pin From Net: NetName=NetR16_1 Pin=U2-4
+Removed Pin From Net: NetName=+5 Pin=U2-5
+Removed Pin From Net: NetName=NetND2_4 Pin=U2-6
+Removed Pin From Net: NetName=NetR16_1 Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=FAULT4 Pin=U3-3
+Removed Pin From Net: NetName=NetR6_1 Pin=U3-4
+Removed Pin From Net: NetName=+5 Pin=U3-5
+Removed Pin From Net: NetName=FAULT6 Pin=U3-6
+Removed Member From Class: ClassName=BSPDSchematic Member=U?
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Library : Designator=U3 Old Library=NC7SV00L6X.IntLib New Library=NC7SV00L6X.SchLib
+Change Component Library : Designator=U2 Old Library=NC7SV00L6X.IntLib New Library=NC7SV00L6X.SchLib
+Added Pin To Net: NetName=NetR16_1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=FAULT4 Pin=U2-3
+Added Pin To Net: NetName=NetR6_1 Pin=U2-4
+Added Pin To Net: NetName=+5 Pin=U2-5
+Added Pin To Net: NetName=FAULT6 Pin=U2-6
+Added Pin To Net: NetName=FAULT1 Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=FAULT3 Pin=U3-3
+Added Pin To Net: NetName=NetR16_1 Pin=U3-4
+Added Pin To Net: NetName=+5 Pin=U3-5
+Added Pin To Net: NetName=NetND2_4 Pin=U3-6
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 SN74HC02DR

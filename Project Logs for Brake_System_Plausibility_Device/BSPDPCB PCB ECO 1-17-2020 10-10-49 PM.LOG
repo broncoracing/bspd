@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+12 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=+5 Pin=U1-5
+Change Component Footprint: Designator=U1 Old Footprint=MAXM-U5+1_V New Footprint=SOT-89_L
+Change Component Comment : Designator=U1 Old Comment=MAX6129BEUK50+T New Comment=L79L05ACUTR
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C4C29378-C8B9-4BBF-9D4B-E183D500CED9 New ItemGUID=B2A9B761-E684-4613-9EB3-0BF5D2F36EDE Old RevisionGUID=7069D876-EADA-4C1A-BD25-985C403DAB75 New RevisionGUID=E3501EF4-AECA-4061-81D6-FD8198A838F4
+Change component parameters: Designator = "U1" ("U1"); Footprint = "MAXM-U5+1_V"; UniqueID = "\RVOMUHJK" ("\RVOMUHJK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000539.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/07/2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-89 Package 1.5 mm Pitch, 4.1 mm Lead Span"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-89"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+12 Pin=U1-2
+Added Pin To Net: NetName=+12 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Member To Class: ClassName=BSPDSchematic Member=Component P1 TC33X-2-103E
+Added Member To Class: ClassName=BSPDSchematic Member=Component P2 TC33X-2-103E
+Added Member To Class: ClassName=BSPDSchematic Member=Component P3 TC33X-2-103E
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 SN74HC02DR

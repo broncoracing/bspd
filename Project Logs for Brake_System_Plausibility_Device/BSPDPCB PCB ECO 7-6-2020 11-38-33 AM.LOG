@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=BSPDSchematic Member=P?
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Member To Class: ClassName=BSPDSchematic Member=Component P1 TC33X-2-103E
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 L79L05ACUTR
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 SN74LVC1G32DCKR

@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=+12 Pin=J1-1
+Removed Pin From Net: NetName=FAULT_OUT Pin=J1-2
+Removed Pin From Net: NetName=ACCEL_IN Pin=J1-3
+Removed Pin From Net: NetName=BRAKE_IN Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-MP1
+Removed Pin From Net: NetName=GND Pin=J1-MP2
+Removed Pin From Net: NetName=+5 Pin=NOT1-2
+Removed Pin From Net: NetName=GND Pin=NOT1-5
+Removed Pin From Net: NetName=FAULT_OUT Pin=U1-1
+Removed Pin From Net: NetName=NetNOT1_6 Pin=U1-2
+Removed Pin From Net: NetName=FAULT_OUT Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=+5 Pin=U1-14
+Removed Member From Class: ClassName=BSPDSchematic Member=J1
+Change Component Footprint: Designator=U1 Old Footprint=D0014A_L New Footprint=DCK0005A_N
+Change Component Comment : Designator=U1 Old Comment=SN74HC02DR New Comment=SN74LVC1G32DCKR
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=1993700E-DF6A-4169-AE58-767D76262678 New ItemGUID=6B8CA466-4C29-4F8D-BE81-A4246D73DFF5 Old RevisionGUID=7BE984CD-21FA-40AD-919F-D39B86B2B817 New RevisionGUID=A13FEBB3-E3AD-451D-8B21-AA2EAF38429E
+Change component parameters: Designator = "U1" ("U1"); Footprint = "D0014A_L"; UniqueID = "\WXOGDUHT" ("\WXOGDUHT")
+Change component parameters (AddParameter): Name = "3-State Output"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Bits(#)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SCES219U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Generic Part Number"; Value = "SN74LVC1G32"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Type"; Value = "CMOS/TTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125,-40 to 85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "32/-32"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DCK0005A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schmitt Trigger"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub-Family"; Value = "OR Gate"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology Family"; Value = "LVC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "7.2,4.4,3.6,3.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VCC(Min)(V)"; Value = "1.65"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage(Nom)(V)"; Value = "1.8,2.5,3.3,5"; VariantName = "[No Variations]"
+Added Component: Designator=P?(*JST_B6B-PH-SM4-TB(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B6B-PH-SM4-TB_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B6B-PH-SM4-TB%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/52131/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=NOT1-2
+Added Pin To Net: NetName=+5 Pin=NOT1-5
+Added Pin To Net: NetName=+12 Pin=P?-1
+Added Pin To Net: NetName=+5 Pin=P?-2
+Added Pin To Net: NetName=FAULT_OUT Pin=P?-3
+Added Pin To Net: NetName=ACCEL_IN Pin=P?-4
+Added Pin To Net: NetName=BRAKE_IN Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=FAULT_OUT Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=NetNOT1_6 Pin=U1-1
+Added Pin To Net: NetName=FAULT_OUT Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=FAULT_OUT Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U1-5
+Added Member To Class: ClassName=BSPDSchematic Member=Component P? B6B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=BSPDSchematic Member=Component R23 50k
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 L79L05ACUTR

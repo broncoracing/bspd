@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=+12 Pin=J1-1
+Removed Pin From Net: NetName=FAULT_OUT Pin=J1-2
+Removed Pin From Net: NetName=ACCEL_IN Pin=J1-3
+Removed Pin From Net: NetName=BRAKE_IN Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-MP1
+Removed Pin From Net: NetName=GND Pin=J1-MP2
+Removed Pin From Net: NetName=+5 Pin=NOT1-2
+Removed Pin From Net: NetName=GND Pin=NOT1-5
+Removed Pin From Net: NetName=FAULT_OUT Pin=U1-1
+Removed Pin From Net: NetName=NetNOT1_6 Pin=U1-2
+Removed Pin From Net: NetName=FAULT_OUT Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=+5 Pin=U1-14
+Change Component Footprint: Designator=U1 Old Footprint=D0014A_L New Footprint=DCK0005A_N
+Change Component Comment : Designator=U1 Old Comment=SN74HC02DR New Comment=SN74LVC1G32DCKR
+Added Component: Designator=P?(*JST_B6B-PH-SM4-TB(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B6B-PH-SM4-TB_LF__SN_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B6B-PH-SM4-TB%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/52131/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=NOT1-2
+Added Pin To Net: NetName=+5 Pin=NOT1-5
+Added Pin To Net: NetName=+12 Pin=P?-1
+Added Pin To Net: NetName=+5 Pin=P?-2
+Added Pin To Net: NetName=FAULT_OUT Pin=P?-3
+Added Pin To Net: NetName=ACCEL_IN Pin=P?-4
+Added Pin To Net: NetName=BRAKE_IN Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=FAULT_OUT Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=NetNOT1_6 Pin=U1-1
+Added Pin To Net: NetName=FAULT_OUT Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=FAULT_OUT Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U1-5
+Added Member To Class: ClassName=BSPDSchematic Member=Component P? B6B-PH-SM4-TB(LF)(SN)
+Added Member To Class: ClassName=BSPDSchematic Member=Component R23 50k
+Added Member To Class: ClassName=BSPDSchematic Member=Component U1 L79L05ACUTR

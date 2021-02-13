@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : RT0603BRD0740KL.LibPkg
+
+Section : C:\Users\Mohit\Downloads\RT0603BRD0740KL\RT0603BRD0740KL.lia
+    Section : PCB Library - RT0603BRD0740KL.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RT0603BRD0740KL On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 168
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - RT0603BRD0740KL.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 106
+        EndSection
+
+        Section : Generating SCH Library - RT0603BRD0740KL.SchLib
+        EndSection
+    EndSection
+EndSection

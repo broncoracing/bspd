@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : GRM31CD80J107ME39K.LibPkg
+
+Section : C:\Users\Mohit\Downloads\GRM31CD80J107ME39K\GRM31CD80J107ME39K.lia
+    Section : PCB Library - GRM31CD80J107ME39K.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token GRM31CD80J107ME39K On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 167
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - GRM31CD80J107ME39K.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+        EndSection
+
+        Section : Generating SCH Library - GRM31CD80J107ME39K.SchLib
+        EndSection
+    EndSection
+EndSection

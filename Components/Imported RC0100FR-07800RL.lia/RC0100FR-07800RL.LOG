@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : RC0100FR-07800RL.LibPkg
+
+Section : C:\Users\Mohit\Downloads\RC0100FR-07800RL\RC0100FR-07800RL.lia
+    Section : PCB Library - RC0100FR-07800RL.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token RC0100FR-07800RL On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 164
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - RC0100FR-07800RL.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+        EndSection
+
+        Section : Generating SCH Library - RC0100FR-07800RL.SchLib
+        EndSection
+    EndSection
+EndSection
