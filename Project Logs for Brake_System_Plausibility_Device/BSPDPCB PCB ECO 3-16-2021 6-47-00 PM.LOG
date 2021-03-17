@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=PCM1-2
+Removed Pin From Net: NetName=+5 Pin=PCM1-3
+Change Component Comment : Designator=C14 Old Comment=C1206C105K3RACTU New Comment=1uF 1206
+Change Component Comment : Designator=U1 Old Comment=L79L05ACUTR New Comment=LD2981CU50TR
+Change Component Description : Designator=U1 Old Description=Negative Voltage Regulator, -5V, 4-Pin SOT-89, Tape and Reel New Description=IC REG LINEAR 5V 100MA SOT89-3
+Added Pin To Net: NetName=+5 Pin=PCM1-2
+Added Pin To Net: NetName=NetD2_2 Pin=PCM1-3

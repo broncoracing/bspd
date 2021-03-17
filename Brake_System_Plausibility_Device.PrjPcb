@@ -24,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -89,6 +90,159 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGCJOIXW
+
+[Document4]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\drill.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Copper_Plane_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Copper_Plane_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_5.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_11.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_16.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_20.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_21.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_23.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Mechanical_24.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Brake_System_Plausibility_Device\BSPDPCB_Soldermask_Top.gbr
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -209,7 +363,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -309,7 +463,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -319,7 +473,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Mohit\Documents\Altium\BSPD\BSPDPCB.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -373,7 +527,7 @@ OutputDefault10=0
 Configuration10_Name1=ForceUpdateSettings
 Configuration10_Item1=False
 Configuration10_Name2=OutputConfigurationParameter1
-Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16842754~1,16908301~1,16973831~1,16908292~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16908304~1,16908289~1,16973834~1,16842753~1,16973837~1,16973848~1,16908303~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
+Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842754~1,16908301~1,16973831~1,16908292~1,16973849~1,16973835~1,16973833~1,16973830~1,16973832~1,16842751~1,16908304~1,16908289~1,16973834~1,16842753~1,16973837~1,16973848~1,16908303~1,16908312~1,16908309~1,16908308~1,16908290~1,16908291~1,16908311~1,16908299~1,16908294~1,16908293~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\Mohit\Documents\Altium\BSPD\BSPDPCB.PcbDoc
 OutputType11=Final
 OutputName11=Final Artwork Prints
 OutputDocumentPath11=

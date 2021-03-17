@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BSPDPCB.GBR   2/20/2021  5:53:20 PM
+Gerber File Extension Report For: BSPDPCB.GBR   3/16/2021  7:35:48 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -34,8 +34,4 @@ Layer Extension     Layer Description
 .gbr                Top Component Center                    
 .gbr                Top Assembly                            
 .gbr                Profile                                 
-.gbr                Non-plated through-hole drill file      
-.gbr                Plated through-hole drill file          
-.gbr                Drill Drawing                           
-.gbr                Drill Guide                             
 ------------------------------------------------------------------------------------------
