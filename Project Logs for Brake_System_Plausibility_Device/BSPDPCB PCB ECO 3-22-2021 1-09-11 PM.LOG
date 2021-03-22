@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetNOT1_4 Pin=R23-1
+Removed Pin From Net: NetName=GND Pin=R23-2
+Added Component: Designator=R23(RESC3216X60X45ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206220RFKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetNOT1_4 Pin=R23-1
+Added Pin To Net: NetName=+5 Pin=R23-2
