@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -394,6 +394,7 @@
         "nets": [
           "+12V",
           "+5V",
+          "+5VE",
           "FAULT_12V",
           "GND",
           "Vin"
@@ -418,8 +419,10 @@
         "nets": [
           "/Sensor Post-Delay",
           "/Sensor Pre-Delay",
+          "/Startup post-delay",
           "/Value Post-Delay",
           "/Value Pre-Delay",
+          "BSE Error",
           "BSE_HIGH",
           "BSE_LOW",
           "BSE_THRESH",
@@ -427,25 +430,20 @@
           "FAULT_3V3",
           "FAULT_5V",
           "FAULT_INV",
-          "Net-(C11-Pad1)",
-          "Net-(C12-Pad1)",
-          "Net-(C15-Pad2)",
           "Net-(D3-Pad1)",
           "Net-(D4-Pad1)",
-          "Net-(D5-Pad1)",
           "Net-(Q1-Pad1)",
-          "Net-(R22-Pad2)",
-          "Net-(R5-Pad1)",
-          "Net-(R6-Pad1)",
-          "Net-(R8-Pad1)",
+          "Net-(R10-Pad1)",
+          "Net-(R12-Pad1)",
+          "Net-(R13-Pad1)",
+          "Net-(R26-Pad2)",
           "Net-(R9-Pad1)",
-          "Net-(TP10-Pad1)",
-          "Net-(TP4-Pad1)",
-          "Net-(TP5-Pad1)",
           "Post-Delay",
           "SENSOR_DELAY",
           "Sensor Error",
           "Startup",
+          "Startup timer",
+          "TPS Error",
           "TPS_HIGH",
           "TPS_LOW",
           "TPS_THRESH",
@@ -519,6 +517,10 @@
     [
       "68f34db6-b185-48e2-8817-fb07f7d1240e",
       ""
+    ],
+    [
+      "80eea443-a0b4-47e6-95c2-ace8baf72b1a",
+      "Power supply"
     ]
   ],
   "text_variables": {}

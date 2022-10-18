@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-    - "pcb/*.kicad_sch"
+    - "pcb/BSPD.kicad_sch"
     - "pcb/*.kicad_pcb"
     - "pcb/*.kicad_pro"
     - "**/*kibot.yml"
