@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-    - "pcb/BSPD.kicad_sch"
+    - "pcb/*.kicad_sch"
     - "pcb/*.kicad_pcb"
     - "pcb/*.kicad_pro"
     - "**/*kibot.yml"
@@ -20,7 +20,7 @@ on:
     - "**/*kibot.yml"
 
 env:
-  schema: "pcb/*.kicad_sch"
+  schema: "pcb/BSPD.kicad_sch"
   board: "pcb/*.kicad_pcb"
   dir: .
 
