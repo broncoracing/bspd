@@ -392,7 +392,6 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "+12V",
           "+5V",
           "+5VE",
           "FAULT_12V",
