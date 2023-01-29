@@ -6391,7 +6391,7 @@
       (reference "RV8") (unit 1) (value "10k") (footprint "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical")
     )
     (path "/7f431ce9-7062-4990-b992-e3e787086f15/aad63fde-02e9-4bc8-a245-f675fb038360"
-      (reference "SW1") (unit 1) (value "SW_DIP_x03") (footprint "Button_Switch_SMD:SW_DIP_SPSTx03_Slide_KingTek_DSHP03TS_W7.62mm_P1.27mm")
+      (reference "SW1") (unit 1) (value "DSHP03TSGET") (footprint "Button_Switch_SMD:SW_DIP_SPSTx03_Slide_KingTek_DSHP03TS_W7.62mm_P1.27mm")
     )
     (path "/cbafec83-b1e7-48d2-b943-9c16f26fd619"
       (reference "U1") (unit 1) (value "LM339") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
