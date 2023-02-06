@@ -1,16 +1,34 @@
-# Various Altium files
-*.PrjPCBStructure
-*.SchDocPreview
-*.PcbDocPreview
-__Previews
-*.PrjPcbStructure
-*.Dat
-*.REP 
-*.TLT
-*.LOG
-*.log
-*.htm
-*.$$$
+# KICAD FILES
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
+
+# Kicad backup files
+pcb/*-backups/*
+
+
+# build dir
+firmware/build/*
 
 #useless dirs
 Project\ Outputs
@@ -53,17 +71,52 @@ Desktop.ini
 *.code-workspace
 
 # Local History for Visual Studio Code
-.history/# Various Altium files
-*.PrjPCBStructure
-*.SchDocPreview
-*.PcbDocPreview
-__Previews
-*.PrjPcbStructure
-*.Dat
-*.REP 
-*.TLT
-*.LOG
-*.log
-*.htm
-*.$$$
+.history/
 
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# VS Code files
+**/.vscode/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Jetbrains stuff
+**/.idea/

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "libraries")(type "KiCad")(uri "${KIPRJMOD}/libraries")(options "")(descr ""))
+  (lib (name "M12_TE_T4142012121-000")(type "KiCad")(uri "${KIPRJMOD}/libraries/M12_TE_T4142012121-000")(options "")(descr ""))
+)
