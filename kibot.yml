@@ -33,7 +33,7 @@ filters:
         regex: "^(G|#|TP|F).*"
 
 import:
-# docs 
+# docs
   - file: .kibot/bom_ibom.kibot.yml
   - file: .kibot/bom_kicost.kibot.yml
   - file: .kibot/docs.kibot.yml
