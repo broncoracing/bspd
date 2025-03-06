@@ -373,7 +373,7 @@
 	)
 	(polyline
 		(pts
-			(xy 139.7 152.4) (xy 139.7 48.26)
+			(xy 139.7 144.78) (xy 139.7 48.26)
 		)
 		(stroke
 			(width 0)
@@ -383,7 +383,7 @@
 	)
 	(polyline
 		(pts
-			(xy 100.33 48.26) (xy 100.33 152.4)
+			(xy 100.33 48.26) (xy 100.33 144.78)
 		)
 		(stroke
 			(width 0)
@@ -393,7 +393,7 @@
 	)
 	(polyline
 		(pts
-			(xy 100.33 152.4) (xy 139.7 152.4)
+			(xy 100.33 144.78) (xy 139.7 144.78)
 		)
 		(stroke
 			(width 0)
@@ -435,28 +435,6 @@
 		(uuid "081858ac-c6cd-448c-b102-d6adbc281da2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 126.0264 77.5494 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SENSOR_DELAY"
-		(shape input)
-		(at 111.76 146.05 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "14083e09-d99d-48ba-87b1-a1a3afa49c95")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.2641 145.9706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -554,9 +532,9 @@
 			)
 		)
 	)
-	(global_label "VALUE_DELAY"
+	(global_label "DELAY"
 		(shape input)
-		(at 111.76 134.62 0)
+		(at 111.76 135.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -564,9 +542,9 @@
 			)
 			(justify left)
 		)
-		(uuid "9601533e-40e2-4ca1-9f7f-205536ada984")
+		(uuid "d1cd8881-1cdb-4c2c-852b-1c0852f5832f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.4498 134.5406 0)
+			(at 120.3695 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -886,72 +864,6 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 109.22 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4c8cb5db-40ad-4367-94d0-6d8e45fdf9d3")
-		(property "Reference" "#PWR055"
-			(at 109.22 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 110.49 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 109.22 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 109.22 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 109.22 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2304077a-6a38-49b6-a84b-327a4de1730d")
-		)
-		(instances
-			(project ""
-				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
-					(reference "#PWR055")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
 		(at 109.22 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1017,16 +929,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 109.22 137.16 0)
+		(lib_id "power:+5V")
+		(at 109.22 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "618bf1da-97b9-40ad-869b-82a828346efa")
-		(property "Reference" "#PWR056"
-			(at 109.22 143.51 0)
+		(uuid "55751a99-ac13-4e30-a327-31d0e2cba043")
+		(property "Reference" "#PWR031"
+			(at 109.22 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1034,17 +946,17 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 109.22 142.24 0)
+		(property "Value" "+5V"
+			(at 110.49 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 137.16 0)
+			(at 109.22 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1053,7 +965,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 137.16 0)
+			(at 109.22 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1061,8 +973,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 137.16 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 109.22 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1071,12 +983,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e96ffc28-256b-454d-8936-4964f537d568")
+			(uuid "ba669425-4669-42a6-b748-599274efef37")
 		)
 		(instances
-			(project ""
+			(project "BSPD"
 				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
-					(reference "#PWR056")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -1192,181 +1104,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 109.22 148.59 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6c4f3062-db58-4beb-8d52-48384e3f1d83")
-		(property "Reference" "#PWR058"
-			(at 109.22 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 109.22 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 109.22 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 109.22 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a934e1fb-c833-4e8b-8504-6f9fde18de90")
-		)
-		(instances
-			(project ""
-				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
-					(reference "#PWR058")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Potentiometer_Small")
-		(at 109.22 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6d7806fe-7e9a-495c-b125-eb0f24323e23")
-		(property "Reference" "RV7"
-			(at 106.68 133.3499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 106.68 135.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
-			(at 109.22 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 109.22 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometer"
-			(at 109.22 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C719176"
-			(at 109.22 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SPICE"
-			(at 109.22 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Params" "type=\"X\" model=\"Potentiometer\" lib=\"SPICE models/pot.lib\""
-			(at -1.27 -5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3"
-			(at -1.27 -5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0a4793b2-8864-4145-8b67-8829b47e9b40")
-		)
-		(pin "2"
-			(uuid "e2f87d7c-0c4f-42fe-94b2-8c2a07442eac")
-		)
-		(pin "3"
-			(uuid "7bc000b4-d691-4e23-9972-ae16751427d9")
-		)
-		(instances
-			(project ""
-				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
-					(reference "RV7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 109.22 97.79 0)
 		(unit 1)
@@ -1427,115 +1164,6 @@
 			(project ""
 				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
 					(reference "#PWR051")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Potentiometer_Small")
-		(at 109.22 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7ea5c095-87e5-4be2-80cd-de4b7d7716eb")
-		(property "Reference" "RV8"
-			(at 106.68 144.7799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10k"
-			(at 106.68 147.3199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
-			(at 109.22 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 109.22 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometer"
-			(at 109.22 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C719176"
-			(at 109.22 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SPICE"
-			(at 109.22 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Params" "type=\"X\" model=\"Potentiometer\" lib=\"SPICE models/pot.lib\""
-			(at -1.27 -5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3"
-			(at -1.27 -5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "38c912f3-40c3-493a-b13d-8c86c6189e1d")
-		)
-		(pin "2"
-			(uuid "4b04c5a7-585b-4804-9d29-7f225c4edf70")
-		)
-		(pin "3"
-			(uuid "20e0b419-f491-4e72-a683-ff136aea8302")
-		)
-		(instances
-			(project ""
-				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
-					(reference "RV8")
 					(unit 1)
 				)
 			)
@@ -1717,72 +1345,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 109.22 143.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9756d006-183b-4e63-a6c4-36e70077cdae")
-		(property "Reference" "#PWR057"
-			(at 109.22 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 110.49 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 109.22 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 109.22 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 109.22 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b5bce052-1cae-4c99-a63b-6caeb486a8c1")
-		)
-		(instances
-			(project ""
-				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
-					(reference "#PWR057")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Potentiometer_Small")
 		(at 109.22 54.61 0)
 		(unit 1)
@@ -1886,6 +1448,115 @@
 			(project ""
 				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
 					(reference "RV1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer_Small")
+		(at 109.22 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a10621df-2142-4299-83a4-b7ede2d39a22")
+		(property "Reference" "RV10"
+			(at 106.68 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10k"
+			(at 106.68 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical"
+			(at 109.22 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometer"
+			(at 109.22 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C719176"
+			(at 109.22 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "SPICE"
+			(at 109.22 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Params" "type=\"X\" model=\"Potentiometer\" lib=\"SPICE models/pot.lib\""
+			(at -1.27 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=1 2=2 3=3"
+			(at -1.27 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "06823adb-934b-4f8c-a028-6ba069ceebbb")
+		)
+		(pin "2"
+			(uuid "9320e84e-abd8-416e-8c10-45f4b0d438c4")
+		)
+		(pin "3"
+			(uuid "31a1fab8-5e7c-4d05-aa11-f6f3ea1a34c8")
+		)
+		(instances
+			(project "BSPD"
+				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
+					(reference "RV10")
 					(unit 1)
 				)
 			)
@@ -2018,6 +1689,72 @@
 			(project ""
 				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
 					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 109.22 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b6b1ba77-3137-4caa-b73d-82c8051843ca")
+		(property "Reference" "#PWR060"
+			(at 109.22 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 109.22 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 109.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "944e0538-8452-4455-87c8-29f1a374ef70")
+		)
+		(instances
+			(project "BSPD"
+				(path "/68f34db6-b185-48e2-8817-fb07f7d1240e/7f431ce9-7062-4990-b992-e3e787086f15"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
